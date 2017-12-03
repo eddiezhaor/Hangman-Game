@@ -1,0 +1,39 @@
+img{
+	weight:200px;
+	height: 230px;
+  }
+div {
+	font-family: 'Shadows Into Light', cursive;
+	color: white;
+}
+ .all {
+ 	margin-top: 14%;
+ 	overflow: auto;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: white;
+    
+ }
+ body{
+ 	background: black;
+ }
+
+.main{
+	line-height: 48px;
+    height: 34%;
+    width: 30%;
+    float: right;
+    margin-right: 13%;
+    font-size: 20px;
+
+}
+
+.pic{
+	border-right-style: dotted;
+    border-color: white;
+    max-width: 50%;
+}
+
+.title{
+	margin-left: 144px;
+}
